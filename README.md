@@ -30,13 +30,6 @@ Sistema de gestión de pacientes desarrollado en Python utilizando archivos JSON
 
 ---
 
-# 📂 Estructura del Proyecto
-
-```bash
-📦 registro-pacientes
- ┣ 📄 Registro de pacientes.py
- ┣ 📄 pacientes.json
- ┗ 📄 README.md
 ▶️ Cómo Ejecutar el Proyecto
 1️⃣ Clonar el repositorio
 git clone https://github.com/tuusuario/registro-pacientes.git
@@ -47,8 +40,7 @@ python "Registro de pacientes.py"
 o
 python3 "Registro de pacientes.py"
 
-
-🖥️ Vista del Menú
+#  🖥️ Vista del Menú
 ********** MENU **********
 
 Presione (1) para introducir los datos del paciente.
@@ -58,7 +50,7 @@ Presione (4) para eliminar paciente.
 Presione (5) para ver la lista de pacientes guardados.
 Presione (6) para salir de la app.
 
-💾 Formato de Almacenamiento
+# 💾 Formato de Almacenamiento
 
 Los datos se guardan automáticamente dentro del archivo:
 
@@ -77,8 +69,7 @@ Ejemplo:
     }
 }
 
-
-🔍 Funciones Principales
+# 🔍 Funciones Principales
 
 Función	Descripción
 revisar_pacientes()	Verifica y carga pacientes
@@ -90,16 +81,14 @@ eliminar_paciente()	Elimina registros
 mostrar_datos_guardados()	Lista todos los pacientes
 Menu()	Controla el sistema principal
 
-
-🛡️ Validaciones Implementadas
+# 🛡️ Validaciones Implementadas
 
 ✔️ Evita IDs duplicadas
 ✔️ La edad debe ser numérica
 ✔️ Verifica existencia del archivo JSON
 ✔️ Control de pacientes inexistentes
 
-
-🚀 Posibles Mejoras Futuras
+# 🚀 Posibles Mejoras Futuras
 
 Interfaz gráfica con Tkinter
 Base de datos MySQL o SQLite
@@ -109,19 +98,19 @@ Exportar a Excel/PDF
 Login de usuarios
 Sistema de citas
 
-👨‍💻 Autor
+# 👨‍💻 Autor
 Sandy Junior Perez Mendoza
 
-Proyecto desarrollado con Python para práctica de:
+# Proyecto desarrollado con Python para práctica de:
 
 Funciones
 JSON
 CRUD
 Manejo de archivos
 Validaciones
-Menús interactivos
+Menús 
 
-📜 Licencia
+# 📜 Licencia
 
 Este proyecto es libre para uso educativo y aprendizaje.
 
