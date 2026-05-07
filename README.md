@@ -40,6 +40,8 @@ python "Registro de pacientes.py"
 o
 python3 "Registro de pacientes.py"
 
+---
+
 #  🖥️ Vista del Menú
 ********** MENU **********
 
@@ -49,6 +51,8 @@ Presione (3) para actualizar los datos del paciente.
 Presione (4) para eliminar paciente.
 Presione (5) para ver la lista de pacientes guardados.
 Presione (6) para salir de la app.
+
+---
 
 # 💾 Formato de Almacenamiento
 
@@ -69,6 +73,8 @@ Ejemplo:
     }
 }
 
+---
+
 # 🔍 Funciones Principales
 
 Función	Descripción
@@ -81,12 +87,16 @@ Función	Descripción
 -mostrar_datos_guardados() Lista todos los pacientes
 -Menu()	Controla el sistema principal
 
+---
+
 # 🛡️ Validaciones Implementadas
 
 ✔️ Evita IDs duplicadas
 ✔️ La edad debe ser numérica
 ✔️ Verifica existencia del archivo JSON
 ✔️ Control de pacientes inexistentes
+
+---
 
 # 🚀 Posibles Mejoras Futuras
 
@@ -98,8 +108,12 @@ Exportar a Excel/PDF
 Login de usuarios
 Sistema de citas
 
+---
+
 # 👨‍💻 Autor
 Sandy Junior Perez Mendoza
+
+---
 
 # Proyecto desarrollado con Python para práctica de:
 
@@ -110,9 +124,13 @@ Manejo de archivos
 Validaciones
 Menús 
 
+---
+
 # 📜 Licencia
 
 Este proyecto es libre para uso educativo y aprendizaje.
+
+---
 
 ⭐ Si te gustó este proyecto
 
