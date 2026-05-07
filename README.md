@@ -72,14 +72,14 @@ Ejemplo:
 # 🔍 Funciones Principales
 
 Función	Descripción
-revisar_pacientes()	Verifica y carga pacientes
-archivar_pacientes()	Guarda los datos en JSON
-agregar_paciente_nuevo()	Registra nuevos pacientes
-consultar_pacientes()	Busca pacientes por ID
-actualizar_paciente()	Modifica información existente
-eliminar_paciente()	Elimina registros
-mostrar_datos_guardados()	Lista todos los pacientes
-Menu()	Controla el sistema principal
+-revisar_pacientes() Verifica y carga pacientes
+-archivar_pacientes() Guarda los datos en JSON
+-agregar_paciente_nuevo() Registra nuevos pacientes
+-consultar_pacientes() Busca pacientes por ID
+-actualizar_paciente() Modifica información existente
+-eliminar_paciente() Elimina registros
+-mostrar_datos_guardados() Lista todos los pacientes
+-Menu()	Controla el sistema principal
 
 # 🛡️ Validaciones Implementadas
 
