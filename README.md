@@ -44,10 +44,10 @@ git clone https://github.com/tuusuario/registro-pacientes.git
 cd registro-pacientes
 3️⃣ Ejecutar el programa
 python "Registro de pacientes.py"
-
 o
-
 python3 "Registro de pacientes.py"
+
+
 🖥️ Vista del Menú
 ********** MENU **********
 
@@ -57,6 +57,7 @@ Presione (3) para actualizar los datos del paciente.
 Presione (4) para eliminar paciente.
 Presione (5) para ver la lista de pacientes guardados.
 Presione (6) para salir de la app.
+
 💾 Formato de Almacenamiento
 
 Los datos se guardan automáticamente dentro del archivo:
@@ -75,7 +76,10 @@ Ejemplo:
         "Seguro medico": "senasa"
     }
 }
+
+
 🔍 Funciones Principales
+
 Función	Descripción
 revisar_pacientes()	Verifica y carga pacientes
 archivar_pacientes()	Guarda los datos en JSON
@@ -85,6 +89,8 @@ actualizar_paciente()	Modifica información existente
 eliminar_paciente()	Elimina registros
 mostrar_datos_guardados()	Lista todos los pacientes
 Menu()	Controla el sistema principal
+
+
 🛡️ Validaciones Implementadas
 
 ✔️ Evita IDs duplicadas
@@ -92,7 +98,9 @@ Menu()	Controla el sistema principal
 ✔️ Verifica existencia del archivo JSON
 ✔️ Control de pacientes inexistentes
 
+
 🚀 Posibles Mejoras Futuras
+
 Interfaz gráfica con Tkinter
 Base de datos MySQL o SQLite
 Búsqueda por nombre
@@ -100,6 +108,7 @@ Historial clínico
 Exportar a Excel/PDF
 Login de usuarios
 Sistema de citas
+
 👨‍💻 Autor
 Sandy Junior Perez Mendoza
 
@@ -111,6 +120,7 @@ CRUD
 Manejo de archivos
 Validaciones
 Menús interactivos
+
 📜 Licencia
 
 Este proyecto es libre para uso educativo y aprendizaje.
